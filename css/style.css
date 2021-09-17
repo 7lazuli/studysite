@@ -21,7 +21,7 @@ h1{
 	font-size: 8vw;
 	font-weight: bold;
 	text-align: center;
-	color: white;
+	color: black;
 	font-family: 'Text Me One', sans-serif;
 	letter-spaing:  5px;
 }
@@ -31,7 +31,7 @@ h1{
 	width: 100%;
 	position: absolute;
 	font-size: 9vw;
-	color: white;
+	color: black;
 	text-align: center;
 	font-family: 'Text Me One', sans-serif;
 }
