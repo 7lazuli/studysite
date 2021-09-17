@@ -1,0 +1,49 @@
+html, body{
+	margin: 0;
+	width: 100%;
+}
+
+.main-container{
+	width: 100%;
+	height: 1080px;
+	position: relative;
+}
+
+.img-background{
+	width: 100%;
+	height: auto;
+}
+
+h1{
+	width: 100%;
+	margin-top: 10%;
+	position: absolute;
+	font-size: 8vw;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: 'Text Me One', sans-serif;
+	letter-spaing:  5px;
+}
+
+#clock{
+	margin-top: 20%;
+	width: 100%;
+	position: absolute;
+	font-size: 9vw;
+	color: white;
+	text-align: center;
+	font-family: 'Text Me One', sans-serif;
+}
+
+h2{
+	width: 100%;
+	margin-top: 32%;
+	position: absolute;
+	font-size: 1vw;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: 'Text Me One', sans-serif;
+	letter-spaing:  5px;
+}
